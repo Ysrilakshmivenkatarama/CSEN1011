@@ -12,6 +12,13 @@ int main() {
   scanf("%d", &t);
 
   printf("Simple Interest = %d \n", (p * t * r / 100) );
-
+ printf("Compound Interest = %d \n", (p*(1+r/100)*t) );
+ 
+ 
+ 
+ 
+ 
+ 
+ 
   return 0;
 }
