@@ -1,5 +1,0 @@
-alogarithm to find whether a number is even or odd
-1.start 
-2. accept a number 
-3. divide the number with 2 . if the reminder is 0 it is even , else it is odd 
-4.stop
