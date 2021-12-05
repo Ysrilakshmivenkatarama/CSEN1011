@@ -1,9 +1,0 @@
-algorithm whether a number is prime or composite number 
-1 . start 
-2. accept a positive integer ( number greater than 2 )
-3.intialize counter variable with 2
-4. divide the number withe counter value.
-5.if reminder is 0 display that 'n' is composite . and stop  the algorithm
-6. else increment the counter and repeat from step 4. until the' counter' value is less than 'n'.
-7. after completion of all the steps display that the number 'n' is prime
-8. stop.   
