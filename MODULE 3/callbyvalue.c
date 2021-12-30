@@ -3,6 +3,7 @@
 1. accept two numbers a and b
 2. call the function 
 3.stop
+*/
 
 
 
