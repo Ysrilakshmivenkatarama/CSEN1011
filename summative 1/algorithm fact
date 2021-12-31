@@ -1,0 +1,11 @@
+start
+accecpt a number n
+if the given number is more than 10 
+then print too big number 
+if the number is negative  number then print negative number
+initialize variables : i = 1, fact = 1
+if i <= n then go to step 8 or if not go to step 9
+calculate fact = fact +1 
+then increment then ++i and go to step 7
+print fact 
+stop
