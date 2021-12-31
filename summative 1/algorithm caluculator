@@ -1,1 +1,22 @@
-
+start
+enter print an operander 1
+print oparender 2
+enter an operator 
+if it is +,-,*,/ then continue 
+if not exit the program 
+switch(operator)
+case +
+  print the result 
+then break 
+then case -
+print the result
+break
+case * 
+print the result 
+break
+case /
+print the result 
+break 
+default
+if the given is not present in it then print invalid option 
+stop
