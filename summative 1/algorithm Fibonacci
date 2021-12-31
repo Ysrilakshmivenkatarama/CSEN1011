@@ -1,0 +1,10 @@
+start 
+declare variable a, b, c, n,
+initialize variable a= 0,b=1
+read n from user 
+print a and b 
+repeat untill i<=n :
+c= a+b 
+print ca=b , b=c 
+i=i+1 
+stop
