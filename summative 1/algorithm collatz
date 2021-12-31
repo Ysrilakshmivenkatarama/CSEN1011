@@ -1,0 +1,6 @@
+start 
+read posative number n
+if n is even , n=n/2
+if n is odd , n=3n+1 
+repeat steps 2 and 3 until n becomes 1 
+stop
