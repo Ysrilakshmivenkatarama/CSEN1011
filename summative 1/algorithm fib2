@@ -1,0 +1,11 @@
+Accep a number 'n'.
+ If the n > 10 Display "Too big a number" and Stop
+    Else if n < 0 Display "Negative Number" and Stop
+    Else go to Step-04.
+Repeat the steps 05 & 06 until ( n < 0 ).  Initialize fact to 1.
+ fact = fact * n 
+ Decrement n.
+ Repeat the steps 08 & 09 until (fact < 0). Initialize sum to 0
+sum = sum + fact % 10.
+ fact = fact / 10
+Display sum
