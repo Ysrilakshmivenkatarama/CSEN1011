@@ -22,7 +22,7 @@ printf("%d",result);
 int permutation (int t)
 {
   int result , x;
-  for(x = t-1; t>= 1; t-- )
+  for(x = t-1; x>= 1; x-- )
     {
       t=t*x;
     }
